@@ -1,0 +1,36 @@
+1660911158323	geckodriver	INFO	Listening on 127.0.0.1:30907
+1660911159547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "--disable-geolocation" "-no-remote" "-profile" "C:\\Users\\quang\\AppData\\Local\\Temp\\rust_mozprofileZJEBKB"
+1660911160751	Marionette	INFO	Marionette enabled
+1660911160758	Marionette	INFO	Listening on port 58177
+Read port: 58177
+1660911161067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:87:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:810:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:739:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:809:12
+loadURI@chrome://mozapps/content/extensions/aboutaddons.js:2465:18
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2444:14
+render@chrome://mozapps/content/extensions/aboutaddons.js:2403:11
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\quang\\AppData\\Local\\Temp\\rust_mozprofileZJEBKB\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous messJage for:"a "hvtatSpcs://demroipt error: resourc.e://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is nulnoplcomm
+erce.com"
+JavaScocnrsioplte .ewrarronr::  LroginRecipes: "getRecipes: falling back to a synchronouesso mesusrace://gre/modugle foers:" /"LhotgtipnsM:a/n/adgeemro.nopcoPmmearce.comr"e
+nt.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipesJava:S cript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronousJava Smcript error: resource://gre/meosdsuage for:" "https://demo.nopcommerce.com"
+les/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcJavaScriptommerce.com"
+ error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronouJas message for:" "https://demo.nopcommerce.com"
+vaScriconsole.warn: LoginRecipes: "getRecippes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+t error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerJceavaScript error: resource://gre/modul.escom"
+/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660911172755	Marionette	INFO	Stopped listening on port 58177
+[Parent 14768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

@@ -1,0 +1,394 @@
+[2022-08-16 22:35:34,148] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 22:35:35,307] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 22:35:35,779] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 22:35:37,461] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus73817@gmail.com'
+[2022-08-16 22:35:37,670] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 22:35:37,805] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 22:35:37,892] Register - Step 07: Click to 'Register' button
+[2022-08-16 22:35:38,791] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 22:35:38,960] Login - Step 01: Navigate to Login page
+[2022-08-16 22:35:40,305] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-16 22:44:46,844] OS name = windows 10
+[2022-08-16 22:44:46,845] Driver instance name = firefoxdriver: firefox on windows (12dde2cb-ae11-4396-9ef2-aa19f52bb879)
+[2022-08-16 22:46:55,567] OS name = windows 10
+[2022-08-16 22:46:55,568] Driver instance name = firefoxdriver: firefox on windows (d51238d3-ce21-45d1-a44a-fa2d5078e3e2)
+[2022-08-16 22:52:40,907] OS name = windows 10
+[2022-08-16 22:52:40,937] Driver instance name = firefoxdriver: firefox on windows (f190b819-bb9d-4904-ad1a-e4e46f133733)
+[2022-08-16 23:05:48,596] OS name = windows 10
+[2022-08-16 23:05:48,598] Driver instance name = firefoxdriver: firefox on windows (84f681d0-0765-4e26-b535-1d4f1d138c4f)
+[2022-08-16 23:11:30,902] OS name = windows 10
+[2022-08-16 23:11:30,903] Driver instance name = firefoxdriver: firefox on windows (a5b4cdee-45b9-4fe9-8ace-4c02105018e1)
+[2022-08-16 23:13:42,312] OS name = windows 10
+[2022-08-16 23:13:42,317] Driver instance name = firefoxdriver: firefox on windows (5d489870-9a95-4094-a08b-07243dfcdfa6)
+[2022-08-16 23:14:51,270] OS name = windows 10
+[2022-08-16 23:14:51,288] Driver instance name = firefoxdriver: firefox on windows (30b1fa33-5967-436a-80a3-689d7d381705)
+[2022-08-16 23:21:57,072] OS name = windows 10
+[2022-08-16 23:21:57,079] Driver instance name = firefoxdriver: firefox on windows (7f7ead0c-212d-45e3-b403-30211ade7f38)
+[2022-08-16 23:27:30,814] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:27:31,724] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:27:31,819] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:27:32,899] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus53963@gmail.com'
+[2022-08-16 23:27:33,059] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:27:33,147] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:27:33,228] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:27:34,011] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 23:27:34,128] Login - Step 01: Navigate to Login page
+[2022-08-16 23:27:35,326] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus53963@gmail.com'
+[2022-08-16 23:27:35,416] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-16 23:27:35,500] Login - Step 04: Click to 'Login' button
+[2022-08-16 23:27:36,240] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-16 23:27:36,311] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-16 23:27:36,842] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-16 23:27:36,917] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-16 23:27:36,976] MyAccount - Step 04: Verify 'Last Name' value is correctly
+[2022-08-16 23:27:37,037] MyAccount - Step 05: Verify 'Email' value is correctly
+[2022-08-16 23:27:37,101] OS name = windows 10
+[2022-08-16 23:27:37,101] Driver instance name = firefoxdriver: firefox on windows (565abc10-786a-419e-8da1-46aad998be65)
+[2022-08-16 23:31:14,012] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:31:14,859] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:31:14,957] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:31:16,011] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus37395@gmail.com'
+[2022-08-16 23:31:16,159] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:31:16,246] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:31:16,339] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:31:17,170] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 23:31:17,275] Login - Step 01: Navigate to Login page
+[2022-08-16 23:31:18,535] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus37395@gmail.com'
+[2022-08-16 23:31:18,636] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-16 23:31:18,734] Login - Step 04: Click to 'Login' button
+[2022-08-16 23:31:19,491] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-16 23:31:19,565] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-16 23:31:20,112] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-16 23:31:20,181] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-16 23:31:20,239] MyAccount - Step 04: Verify 'Last Name' value is correctly
+[2022-08-16 23:31:20,300] MyAccount - Step 05: Verify 'Email' value is correctly
+[2022-08-16 23:31:20,367] OS name = windows 10
+[2022-08-16 23:31:20,368] Driver instance name = firefoxdriver: firefox on windows (17e2cab3-a737-4d79-8bce-994ee8c8e47d)
+[2022-08-16 23:32:45,001] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:32:45,859] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:32:45,954] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:32:47,025] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus14921@gmail.com'
+[2022-08-16 23:32:47,172] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:32:47,256] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:32:47,338] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:32:48,140] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 23:32:48,253] Login - Step 01: Navigate to Login page
+[2022-08-16 23:32:49,486] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus14921@gmail.com'
+[2022-08-16 23:32:49,592] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-16 23:32:49,684] Login - Step 04: Click to 'Login' button
+[2022-08-16 23:32:50,437] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-16 23:32:50,510] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-16 23:32:51,040] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-16 23:32:51,111] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-16 23:32:51,262] OS name = windows 10
+[2022-08-16 23:32:51,263] Driver instance name = firefoxdriver: firefox on windows (b7da9558-2c60-451d-b8c0-1c6a2a89d612)
+[2022-08-16 23:34:59,739] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:35:00,629] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:35:00,719] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:35:01,775] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus16479@gmail.com'
+[2022-08-16 23:35:01,938] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:35:02,026] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:35:02,118] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:35:02,936] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 23:35:03,058] Login - Step 01: Navigate to Login page
+[2022-08-16 23:35:04,301] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus16479@gmail.com'
+[2022-08-16 23:35:04,417] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-16 23:35:04,505] Login - Step 04: Click to 'Login' button
+[2022-08-16 23:35:05,252] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-16 23:35:05,334] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-16 23:35:05,860] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-16 23:35:05,935] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-16 23:35:06,057] OS name = windows 10
+[2022-08-16 23:35:06,058] Driver instance name = firefoxdriver: firefox on windows (cccd9198-2bdf-4bf3-910c-f5b68bb80423)
+[2022-08-16 23:42:59,573] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:43:00,425] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:43:00,519] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:43:01,576] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus69818@gmail.com'
+[2022-08-16 23:43:01,726] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:43:01,808] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:43:01,903] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:43:02,736] Register - Step 08: Verify Register success message is displayed
+[2022-08-16 23:47:10,310] Register - Step 01: Navigate to 'Register' page
+[2022-08-16 23:47:11,247] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-16 23:47:11,337] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-16 23:47:12,616] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus32210@gmail.com'
+[2022-08-16 23:47:12,775] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-16 23:47:12,860] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-16 23:47:12,952] Register - Step 07: Click to 'Register' button
+[2022-08-16 23:47:13,765] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:19:33,520] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 00:19:33,619] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 00:19:34,658] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus79383@gmail.com'
+[2022-08-17 00:19:34,821] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 00:19:34,908] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 00:19:35,003] Register - Step 07: Click to 'Register' button
+[2022-08-17 00:19:35,825] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:19:37,179] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus79383@gmail.com'
+[2022-08-17 00:19:37,284] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 00:19:37,375] Login - Step 04: Click to 'Login' button
+[2022-08-17 00:19:38,074] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 00:19:38,143] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 00:19:38,625] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 00:19:38,695] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 00:19:38,898] OS name = windows 10
+[2022-08-17 00:19:38,898] Driver instance name = firefoxdriver: firefox on windows (47bfa360-e541-4ca0-996a-1878d39bc615)
+[2022-08-17 00:38:25,408] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 00:38:25,504] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 00:38:26,592] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus56424@gmail.com'
+[2022-08-17 00:38:26,753] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 00:38:26,842] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 00:38:26,938] Register - Step 07: Click to 'Register' button
+[2022-08-17 00:38:27,731] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:38:29,555] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus56424@gmail.com'
+[2022-08-17 00:38:29,656] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 00:38:29,743] Login - Step 04: Click to 'Login' button
+[2022-08-17 00:38:30,475] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 00:38:30,555] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 00:38:31,069] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 00:38:31,138] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 00:38:31,363] OS name = windows 10
+[2022-08-17 00:38:31,363] Driver instance name = firefoxdriver: firefox on windows (71825a8c-5139-4f9c-96eb-3ddfc65cf7dd)
+[2022-08-17 00:53:40,082] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 00:53:41,022] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 00:53:41,116] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 00:53:42,199] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus81004@gmail.com'
+[2022-08-17 00:53:42,359] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 00:53:42,446] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 00:53:42,536] Register - Step 07: Click to 'Register' button
+[2022-08-17 00:53:43,316] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:53:43,497] Login - Step 01: Navigate to Login page
+[2022-08-17 00:53:44,652] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus81004@gmail.com'
+[2022-08-17 00:53:44,750] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 00:53:44,835] Login - Step 04: Click to 'Login' button
+[2022-08-17 00:53:45,546] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 00:53:45,632] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 00:53:46,278] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 00:53:46,359] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 00:53:46,584] OS name = windows 10
+[2022-08-17 00:53:46,584] Driver instance name = firefoxdriver: firefox on windows (1997b888-9d99-4458-b614-92678b7d976a)
+[2022-08-17 00:56:28,062] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 00:56:28,939] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 00:56:29,037] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 00:56:30,103] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus85868@gmail.com'
+[2022-08-17 00:56:30,249] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 00:56:30,338] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 00:56:30,433] Register - Step 07: Click to 'Register' button
+[2022-08-17 00:56:31,273] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:56:31,454] Login - Step 01: Navigate to Login page
+[2022-08-17 00:56:32,668] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus85868@gmail.com'
+[2022-08-17 00:56:32,774] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 00:56:32,859] Login - Step 04: Click to 'Login' button
+[2022-08-17 00:56:33,590] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 00:56:33,670] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 00:56:34,168] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 00:56:34,241] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 00:56:34,476] OS name = windows 10
+[2022-08-17 00:56:34,476] Driver instance name = firefoxdriver: firefox on windows (08fb3123-0174-465f-a86f-44b1cccb00ca)
+[2022-08-17 00:59:39,241] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 00:59:40,151] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 00:59:40,254] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 00:59:41,276] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus25019@gmail.com'
+[2022-08-17 00:59:41,436] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 00:59:41,522] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 00:59:41,614] Register - Step 07: Click to 'Register' button
+[2022-08-17 00:59:42,408] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 00:59:42,595] Login - Step 01: Navigate to Login page
+[2022-08-17 00:59:44,121] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus25019@gmail.com'
+[2022-08-17 00:59:44,223] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 00:59:44,310] Login - Step 04: Click to 'Login' button
+[2022-08-17 00:59:45,064] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 00:59:45,161] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 00:59:45,676] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 00:59:45,745] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 00:59:46,023] OS name = windows 10
+[2022-08-17 00:59:46,023] Driver instance name = firefoxdriver: firefox on windows (ab46c65f-f719-4d2d-8667-647fe31a675a)
+[2022-08-17 22:43:19,770] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 22:43:21,449] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 22:43:21,592] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 22:43:22,689] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus39723@gmail.com'
+[2022-08-17 22:43:22,847] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 22:43:22,936] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 22:43:23,028] Register - Step 07: Click to 'Register' button
+[2022-08-17 22:43:23,928] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 22:43:24,109] Login - Step 01: Navigate to Login page
+[2022-08-17 22:43:25,374] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus39723@gmail.com'
+[2022-08-17 22:43:25,466] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 22:43:25,554] Login - Step 04: Click to 'Login' button
+[2022-08-17 22:43:26,283] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 22:43:26,363] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 22:43:26,868] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 22:43:26,934] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 22:43:27,215] OS name = windows 10
+[2022-08-17 22:43:27,215] Driver instance name = firefoxdriver: firefox on windows (cb0e5509-2cde-44ce-af83-b2cd97e11145)
+[2022-08-17 22:53:23,406] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 22:53:24,374] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 22:53:24,480] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 22:53:25,572] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus74313@gmail.com'
+[2022-08-17 22:53:25,720] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 22:53:25,811] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 22:53:25,901] Register - Step 07: Click to 'Register' button
+[2022-08-17 22:53:26,713] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 22:53:26,888] Login - Step 01: Navigate to Login page
+[2022-08-17 22:53:28,253] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus74313@gmail.com'
+[2022-08-17 22:53:28,358] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 22:53:28,444] Login - Step 04: Click to 'Login' button
+[2022-08-17 22:53:29,199] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 22:53:29,288] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 22:53:29,777] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 22:53:29,848] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 22:53:30,113] OS name = windows 10
+[2022-08-17 22:53:30,113] Driver instance name = firefoxdriver: firefox on windows (aba54e96-89af-4ae1-b30f-df109bd36cfd)
+[2022-08-17 23:10:02,606] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 23:10:03,604] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 23:10:03,702] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 23:10:04,783] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus13382@gmail.com'
+[2022-08-17 23:10:04,930] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 23:10:05,020] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 23:10:05,111] Register - Step 07: Click to 'Register' button
+[2022-08-17 23:10:05,975] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 23:10:06,133] Login - Step 01: Navigate to Login page
+[2022-08-17 23:10:07,535] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus13382@gmail.com'
+[2022-08-17 23:11:07,611] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 23:11:08,558] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 23:11:08,653] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 23:11:09,706] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus72973@gmail.com'
+[2022-08-17 23:11:09,849] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 23:11:09,938] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 23:11:10,029] Register - Step 07: Click to 'Register' button
+[2022-08-17 23:11:10,856] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 23:11:11,001] Login - Step 01: Navigate to Login page
+[2022-08-17 23:11:12,275] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus72973@gmail.com'
+[2022-08-17 23:11:12,381] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 23:11:12,464] Login - Step 04: Click to 'Login' button
+[2022-08-17 23:11:13,174] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 23:11:13,245] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 23:11:13,805] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 23:11:13,879] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 23:11:14,108] OS name = windows 10
+[2022-08-17 23:11:14,108] Driver instance name = firefoxdriver: firefox on windows (d17d99a0-42c5-4243-9589-2b9942b58f55)
+[2022-08-17 23:14:15,165] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 23:14:16,042] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 23:14:16,141] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 23:14:17,224] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus80723@gmail.com'
+[2022-08-17 23:14:17,373] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 23:14:17,459] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 23:14:17,550] Register - Step 07: Click to 'Register' button
+[2022-08-17 23:14:18,333] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 23:14:18,491] Login - Step 01: Navigate to Login page
+[2022-08-17 23:14:19,710] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus80723@gmail.com'
+[2022-08-17 23:14:19,810] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 23:14:19,895] Login - Step 04: Click to 'Login' button
+[2022-08-17 23:14:20,611] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 23:14:20,692] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 23:14:21,174] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 23:14:21,238] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 23:14:21,462] OS name = windows 10
+[2022-08-17 23:14:21,462] Driver instance name = firefoxdriver: firefox on windows (e93c13b7-6c2d-45e4-b896-ef9be6a37bd4)
+[2022-08-17 23:48:22,971] Register - Step 01: Navigate to 'Register' page
+[2022-08-17 23:48:23,878] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-17 23:48:23,979] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-17 23:48:25,031] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus505@gmail.com'
+[2022-08-17 23:48:25,176] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-17 23:48:25,262] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-17 23:48:25,341] Register - Step 07: Click to 'Register' button
+[2022-08-17 23:48:26,294] Register - Step 08: Verify Register success message is displayed
+[2022-08-17 23:48:26,442] Login - Step 01: Navigate to Login page
+[2022-08-17 23:48:27,700] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus505@gmail.com'
+[2022-08-17 23:48:27,802] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-17 23:48:27,890] Login - Step 04: Click to 'Login' button
+[2022-08-17 23:48:28,614] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-17 23:48:28,690] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-17 23:48:29,199] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-17 23:48:29,270] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-17 23:48:29,493] OS name = windows 10
+[2022-08-17 23:48:29,493] Driver instance name = firefoxdriver: firefox on windows (74e388af-cd56-4e99-a44f-b102240eccd8)
+[2022-08-18 00:06:47,294] Register - Step 01: Navigate to 'Register' page
+[2022-08-18 00:06:48,169] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-18 00:06:48,267] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-18 00:06:49,331] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus60493@gmail.com'
+[2022-08-18 00:06:49,487] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-18 00:06:49,577] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-18 00:06:49,667] Register - Step 07: Click to 'Register' button
+[2022-08-18 00:06:50,473] Register - Step 08: Verify Register success message is displayed
+[2022-08-18 00:06:50,638] Login - Step 01: Navigate to Login page
+[2022-08-18 00:06:51,793] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus60493@gmail.com'
+[2022-08-18 00:06:51,892] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-18 00:06:51,994] Login - Step 04: Click to 'Login' button
+[2022-08-18 00:06:52,697] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-18 00:06:52,770] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-18 00:06:53,265] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-18 00:06:53,346] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-18 00:06:53,575] OS name = windows 10
+[2022-08-18 00:06:53,576] Driver instance name = firefoxdriver: firefox on windows (509a3be7-7a2a-426a-9e2a-e39336b0e886)
+[2022-08-19 01:22:54,731] Register - Step 01: Navigate to 'Register' page
+[2022-08-19 01:22:55,582] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-19 01:22:55,677] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-19 01:22:57,294] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus99142@gmail.com'
+[2022-08-19 01:22:57,452] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-19 01:22:57,540] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-19 01:22:57,667] Register - Step 07: Click to 'Register' button
+[2022-08-19 01:22:58,525] Register - Step 08: Verify Register success message is displayed
+[2022-08-19 01:22:58,742] Login - Step 01: Navigate to Login page
+[2022-08-19 01:22:59,924] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus99142@gmail.com'
+[2022-08-19 01:23:00,033] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-19 01:23:00,121] Login - Step 04: Click to 'Login' button
+[2022-08-19 01:23:00,841] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-19 01:23:00,915] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-19 01:23:01,453] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-19 01:23:01,528] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-19 01:23:01,745] OS name = windows 10
+[2022-08-19 01:23:01,745] Driver instance name = firefoxdriver: firefox on windows (e0d096a6-23e0-4e39-8267-ae29ff3187ad)
+[2022-08-19 02:59:50,482] Register - Step 01: Navigate to 'Register' page
+[2022-08-19 02:59:51,377] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-19 02:59:51,477] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-19 02:59:52,562] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus62664@gmail.com'
+[2022-08-19 02:59:52,706] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-19 02:59:52,793] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-19 02:59:52,887] Register - Step 07: Click to 'Register' button
+[2022-08-19 02:59:53,701] Register - Step 08: Verify Register success message is displayed
+[2022-08-19 02:59:53,875] Login - Step 01: Navigate to Login page
+[2022-08-19 02:59:55,094] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus62664@gmail.com'
+[2022-08-19 02:59:55,189] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-19 02:59:55,278] Login - Step 04: Click to 'Login' button
+[2022-08-19 02:59:56,032] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-19 02:59:56,121] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-19 02:59:56,636] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-19 02:59:56,707] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-19 02:59:56,927] OS name = windows 10
+[2022-08-19 02:59:56,927] Driver instance name = firefoxdriver: firefox on windows (3577c33c-3078-4dc2-9770-349fe9463482)
+[2022-08-19 03:41:35,606] Register - Step 01: Navigate to 'Register' page
+[2022-08-19 03:41:36,482] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-19 03:41:36,578] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-19 03:41:37,649] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus97802@gmail.com'
+[2022-08-19 03:41:37,807] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-19 03:41:37,897] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-19 03:41:37,990] Register - Step 07: Click to 'Register' button
+[2022-08-19 03:41:38,840] Register - Step 08: Verify Register success message is displayed
+[2022-08-19 03:41:39,029] Login - Step 01: Navigate to Login page
+[2022-08-19 03:41:40,228] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus97802@gmail.com'
+[2022-08-19 03:41:40,334] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-19 03:41:40,420] Login - Step 04: Click to 'Login' button
+[2022-08-19 03:41:41,140] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-19 03:41:41,211] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-19 03:41:41,730] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-19 03:41:41,796] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-19 03:41:42,009] OS name = windows 10
+[2022-08-19 03:41:42,009] Driver instance name = firefoxdriver: firefox on windows (cb0d1732-c315-410a-b8a5-97e9a3b93b40)
+[2022-08-19 19:12:46,071] Register - Step 01: Navigate to 'Register' page
+[2022-08-19 19:12:47,097] Register - Step 02: Enter to Firstname textbox with value is 'quang anh'
+[2022-08-19 19:12:47,208] Register - Step 03: Enter to Lastname textbox with value is 'trinh'
+[2022-08-19 19:12:48,254] Register - Step 04: Enter to Email textbox with value is 'quanganh.plus16044@gmail.com'
+[2022-08-19 19:12:48,414] Register - Step 05: Enter to Password textbox with value is '123456'
+[2022-08-19 19:12:48,503] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-08-19 19:12:48,593] Register - Step 07: Click to 'Register' button
+[2022-08-19 19:12:49,425] Register - Step 08: Verify Register success message is displayed
+[2022-08-19 19:12:49,595] Login - Step 01: Navigate to Login page
+[2022-08-19 19:12:50,864] Login - Step 02: Enter to Email textbox with value is 'quanganh.plus16044@gmail.com'
+[2022-08-19 19:12:50,962] Login - Step 03: Enter to Password textbox with value is '123456'
+[2022-08-19 19:12:51,051] Login - Step 04: Click to 'Login' button
+[2022-08-19 19:12:51,809] Login - Step 05: Verify 'My Account' link is displayed
+[2022-08-19 19:12:51,878] MyAccount - Step 01: Navigate to 'My Account' page
+[2022-08-19 19:12:52,435] MyAccount - Step 02: Verify 'Customer Info' page is displayed
+[2022-08-19 19:12:52,495] MyAccount - Step 03: Verify 'Fist Name' value is correctly
+[2022-08-19 19:12:52,726] OS name = windows 10
+[2022-08-19 19:12:52,726] Driver instance name = firefoxdriver: firefox on windows (ce2fb4cc-fb2f-4e36-af37-decab93d6273)
