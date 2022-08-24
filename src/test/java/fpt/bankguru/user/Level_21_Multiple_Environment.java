@@ -28,7 +28,7 @@ public class Level_21_Multiple_Environment extends BaseTest {
 		System.out.println(environment.appUrl());
 		System.out.println(environment.appUsername());
 		System.out.println(environment.appPassword());
-		System.out.println(driver.getCurrentUrl());
+
 	}
 
 	@Test
