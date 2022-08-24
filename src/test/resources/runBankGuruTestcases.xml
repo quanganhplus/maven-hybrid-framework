@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce - User">
+
+	<listeners>
+		<listener class-name="commons.MethodListener"/>
+<!-- 		<listener class-name="reportConfig.ReportNGListener"/> -->
+<!-- 		<listener class-name="reportConfig.ExtentTestListener"/> -->
+<!-- 		<listener class-name="reportConfig.AllureTestListener"/> -->
+<!--     	<listener class-name="org.uncommons.reportng.HTMLReporter"/> -->
+<!--     	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+	</listeners>
+
+	
+
+<!--   <test name="Run on FIREFOX"> -->
+<!--   	<parameter name="browser" value="firefox"/> -->
+<!--     <classes> -->
+<!--       <class name="fpt.liveguru.user.Level_21_Multiple_Environment"/> -->
+<!--     </classes> -->
+<!--   </test>  -->
+	
+  <test name="Run on CHROME">
+  	<parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="fpt.bankguru.user.Level_21_Multiple_Environment"/>
+    </classes>
+  </test> 
+    
+</suite> 
